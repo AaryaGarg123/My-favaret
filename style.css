@@ -1,0 +1,60 @@
+img {
+    height: 400px;
+    width: 250px;
+    margin-top: 50px;
+}
+
+body {
+    text-align: center;
+    background-color: pink;
+}
+
+p {
+    font-size: 50px;
+    color: red;
+}
+
+h1 {
+    font-size: 40px;
+    color: purple;
+}
+
+h3 {
+    color: pink;
+    background-color: red;
+    font-size: 25px
+}
+
+h2 {
+    background-color: purple;
+    color: violet;
+    font-size: 30px;
+}
+
+#vidoes {
+    background-color: red;
+}
+a {
+    font-size:30px;
+    color: hotpink;
+}
+.menu {
+    margin-top: 0px;
+    font-family: sans-serif;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.links {
+
+    color: darkorchid;
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+
+    font-family: fantasy;
+    font-size: 20px;
+}
